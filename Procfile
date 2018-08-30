@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT tylerpotatocom_tyler_7.wsgi:application
